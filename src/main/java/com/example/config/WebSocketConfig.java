@@ -23,6 +23,6 @@ public class WebSocketConfig implements WebSocketConfigurer {
     public void registerWebSocketHandlers(@NonNull WebSocketHandlerRegistry registry) {
         logger.info("Registrando handler de WebSocket em /chat");
         registry.addHandler(this.chatWebSocketHandler, "/chat")
-                .setAllowedOrigins("http://localhost:4200");
+                .setAllowedOrigins("http://localhost:4200/chat");
     }
 }

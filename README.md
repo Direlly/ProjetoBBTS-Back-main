@@ -1,3 +1,6 @@
+![thumbnail](https://recifevirado.recife.pe.gov.br/wp-content/uploads/2021/10/logo-embarque-digital-1.png)
+
+
 ---
 # Apresentação
 Repositório do Projeto BBTS (Back-end) para Desafio proposto pela Compesa e Porto Digital como parte da Residência Tecnológica do Programa Embarque Digital Criado pela Prefeitura da Cidade do Recife, PE - Brasil . 
